@@ -17,7 +17,7 @@ config :heat_tags, HeatTags.Repo,
 # you can enable the server option below.
 config :heat_tags, HeatTagsWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "ddSoulkojM3X7Qr6GhfhsTU201FhkmpeSldHvXwB7dF+wFN8gmXRdzbC49hsEw3n",
+  secret_key_base: "02kS8Fe9Tlrp2GdjMxkbT8MpoA1c2NBh+fUzz+F60riOf4T9jUF0gj6N/rXNJfzc",
   server: false
 
 # In test we don't send emails.
