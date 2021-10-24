@@ -21,17 +21,13 @@ Esse projeto foi desenvolvido na segunda aula da NLW, com intuito de ser o front
 - [Sass](https://sass-lang.com/)
 - [Css modules](https://reactgo.com/react-app-css-modules/)
 - [Socket.IO](https://socket.io/)
-- [Axios](https://socket.io/))
+- [Axios](https://socket.io/)
 
 
 ## 🚀 Como executar
 
 
 - Clone o repositório e acesse a pasta;
-- Faça uma copia das três variáveis abaixo e coloque em um arquivo `.env` e preencha com as suas credenciais do GitHub;
-- GITHUB_CLIENT_SECRET=Aqui usa a credencial do Github;
-- GITHUB_CLIENT_ID=Aqui usa a credencial do Github;
-- JWT_SECRET=Aqui usa um gerador de hash e coloque as credencias, ou pode digitar uma sequencia de caracteres de sua preferência.
 - Instale as dependências com `yarn`;
 - Inicie a aplicação com `yarn dev`;
 
