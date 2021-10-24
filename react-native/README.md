@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido na terceira aula da NLW, com intuito de ser o fron
 - Clone o repositório e acesse a pasta;
 - Instale as dependências com `expo install`;
 - Inicie a aplicação com `expo start`;
-- Configurar um novo oauth no github, utilizar a url no cadastro do oauth respeitando o padrão sugerido pelo Expo (https://auth.expo.io/@you/your-app), onde o @you é o login do Expo e your-app é o nome de sua aplicação.
+- Configurar um novo oauth no github, utilizar a url no cadastro do oauth respeitando o padrão sugerido pelo Expo `(https://auth.expo.io/@you/your-app)`, onde o @you é o login do Expo e your-app é o nome de sua aplicação.
 - Você pode rodar o aplicativo por um emulador ou baixar o app do Expo em seu celular, capturar o QRcode, assim a aplicação abrirá em seu celular.
 
 

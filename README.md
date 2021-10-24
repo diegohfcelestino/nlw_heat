@@ -55,7 +55,7 @@ Nessa aula criamos o front-end web da nossa aplicação utilizando ReactJS. Alé
 ### Aula 3    
 <img src="./assets/reactNative.png" width="160">
 
-- [Mobile](https://github.com/diegohfcelestino/nlw_heat/tree/main/react-js)
+- [Mobile](https://github.com/diegohfcelestino/nlw_heat/tree/main/react-native)
 Nessa aula criamos o front-end mobile da nossa aplicação utilizando React Native, criamos nosso projeto utilizando TypeScript e Expo que proporciona muita produtividade no desenvolvimento. Também construímos a interface da aplicação do zero, além de criar animações utilizando o Moti, AsyncStorage e integração em tempo real com socket.io.
 
 
