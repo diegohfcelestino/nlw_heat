@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="../assets/homeWeb.png" width="550">
-  <!-- <img src="./assets/homeApp.png" width="250"> -->
 </p>
 
 ## ✨ Tecnologias
