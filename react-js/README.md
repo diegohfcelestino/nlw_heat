@@ -11,6 +11,11 @@
   <img src="https://img.shields.io/static/v1?label=NLW&message=Heat&color=8257E5&labelColor=000000" alt="NLW Heat" />
 </p>
 
+<p align="center">
+  <img src="./assets/homeWeb.png" width="550">
+  <!-- <img src="./assets/homeApp.png" width="250"> -->
+</p>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido na segunda aula da NLW, com intuito de ser o frontend web da aplicação.
