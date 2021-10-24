@@ -1,4 +1,4 @@
-<h1 align="center">NLW Heat - Node.js</h1>
+<h1 align="center">NLW Heat - React.js</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,16 +13,16 @@
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido na primeira aula da NLW, com intuito de ser o backend da aplicação.
-> Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
+Esse projeto foi desenvolvido na segunda aula da NLW, com intuito de ser o frontend web da aplicação.
 
-- [Node](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [Prisma](https://www.prisma.io/)
-- [JSON Web Token](https://jwt.io/)
+- [Vite](https://vitejs.dev/)
+- [Sass](https://sass-lang.com/)
+- [Css modules](https://reactgo.com/react-app-css-modules/)
 - [Socket.IO](https://socket.io/)
-- [SQLite](https://www.sqlite.org)
+- [Axios](https://socket.io/))
+
 
 ## 🚀 Como executar
 
@@ -33,10 +33,9 @@ Esse projeto foi desenvolvido na primeira aula da NLW, com intuito de ser o back
 - GITHUB_CLIENT_ID=Aqui usa a credencial do Github;
 - JWT_SECRET=Aqui usa um gerador de hash e coloque as credencias, ou pode digitar uma sequencia de caracteres de sua preferência.
 - Instale as dependências com `yarn`;
-- Executa as migrations com `yarn prisma migrate dev`;
-- Inicie o servidor com `yarn dev`;
+- Inicie a aplicação com `yarn dev`;
 
-A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
+A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
 
 ## 📄 Licença
 
@@ -44,6 +43,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Diego Ferreira com a instrutora Dani Leão na NLW - Heat da [Rocketseat](https://www.rocketseat.com.br/).
+Feito por Diego Ferreira com o instrutor Diego Fernandes na NLW - Heat da [Rocketseat](https://www.rocketseat.com.br/).
 
 👋🏻 &nbsp;[Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
